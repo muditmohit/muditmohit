@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm a Computer Science Engineering Student 👋
 
-<!--
-**muditmohit/muditmohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE | 2027 Batch
 
-Here are some ideas to get you started:
+☁️ Interested in Cloud Computing and Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- Programming: C, Java, Python
+- Database: SQL
+- Cloud: AWS
+- Tools: Git, GitHub, Arduino IDE
+
+### 🚀 Projects
+- **Credit Card Fraud Detection:** Machine learning-based system to identify fraudulent credit card transactions.
+- **Drone Controller – Embedded Flight Control System:** NIT Rourkela project focused on embedded systems and flight control.
+
+### 📜 Certifications
+- AWS Academy Cloud Foundations
+
+### 📫 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/muditmohit/)
+- Email: muditmohitprusty@gmail.com
